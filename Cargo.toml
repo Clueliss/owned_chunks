@@ -1,6 +1,6 @@
 [package]
 name = "owned_chunks"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Liss Heidrich <Clueliss@users.noreply.github.com>"]
 license = "MIT"
